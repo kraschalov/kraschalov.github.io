@@ -425,7 +425,7 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #header4-l .mbr-section-title SPAN {
-  font-size: 36px;
+  font-size: 46px;
 }
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
@@ -452,9 +452,13 @@ h6,
 #form1-k .mbr-section-title {
   color: #3e3a3a;
   font-family: 'Raleway', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
 }
 #form1-k SPAN {
   text-align: left;
   color: #4b4545;
+  font-size: 20px;
+}
+#form1-k .mbr-section-title SPAN {
+  font-size: 32px;
 }

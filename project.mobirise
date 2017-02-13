@@ -54,7 +54,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "36px"
+              "font-size": "46px"
             }
           },
           "_anchor": "header4-l",
@@ -70,7 +70,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -104,12 +104,12 @@
           "_name": "header3",
           "_anchor": "header3-d",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#514f4e",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\">ПОЛУЧЕНИЕ КАРТЫ ТО On-Line</span><br>- это обычная практика.<br><br>",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\">ПОЛУЧЕНИЕ КАРТЫ ТО On-Line</span><br>- это обычная практика",
           "meta": ""
         },
         {
@@ -255,31 +255,35 @@
               "color": "#3e3a3a",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "48px"
+              "font-size": "32px"
             },
             "SPAN": {
               "text-align": "left",
-              "color": "#4b4545"
+              "color": "#4b4545",
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
             }
           },
           "_anchor": "form1-k",
           "_params": {
             "labelsColor": "#292626",
             "paddingTop": "2",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#c2c2c2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": false
+            "showSubTitle": true
           },
-          "title": "ОСТАВИТЬ ЗАЯВКУ&nbsp;<br>или задать вопрос",
-          "subtitle": "<br><br><br>",
+          "title": "ОСТАВИТЬ ЗАЯВКУ<br>",
+          "subtitle": "<span style=\"color: rgb(140, 140, 140); text-align: center;\">или задать вопрос</span><br><br>",
           "form": {
             "action": "kras.chalov@gmail.com",
             "alerts": {
