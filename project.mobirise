@@ -47,11 +47,14 @@
             ".mbr-section-title": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "80px"
+              "font-size": "46px"
             },
             ".mbr-section-lead": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           },
           "_anchor": "header4-l",
@@ -74,7 +77,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "ТЕХОСМОТР",
+          "title": "<span style=\"font-weight: normal;\">ТЕХОСМОТР</span>",
           "text": "<span style=\"font-style: normal;\">Получи карту техосмотра онлайн за 15 минут</span><br>Tel:‎2728788; 2728977<span style=\"font-style: normal;\"><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header3-n\" data-toolbar=\"-mbrBtnMove\">КАК ЭТО РАБОТАЕТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">ОСТАВИТЬ ЗАЯВКУ</a>"
         },
@@ -92,7 +95,7 @@
             "SPAN": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "32px"
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -106,7 +109,7 @@
             "bgColor": "#514f4e",
             "showMeta": false
           },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">&nbsp;ПОЛУЧЕНИЕ КАРТЫ ТО ONLINE&nbsp;</span><br>- это обычная практика.<br><br>",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\">ПОЛУЧЕНИЕ КАРТЫ ТО On-Line</span><br>- это обычная практика.<br><br>",
           "meta": ""
         },
         {

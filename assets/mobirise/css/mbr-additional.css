@@ -419,10 +419,13 @@ h6,
 }
 #header4-l .mbr-section-title {
   font-family: 'Raleway', sans-serif;
-  font-size: 80px;
+  font-size: 46px;
 }
 #header4-l .mbr-section-lead {
   font-family: 'Open Sans', sans-serif;
+}
+#header4-l .mbr-section-title SPAN {
+  font-size: 36px;
 }
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
@@ -435,7 +438,7 @@ h6,
 }
 #header3-d SPAN {
   font-family: 'Raleway', sans-serif;
-  font-size: 32px;
+  font-size: 46px;
 }
 #features6-e H4 {
   color: #ffffff;
