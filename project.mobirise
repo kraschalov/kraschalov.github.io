@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -75,7 +75,7 @@
             "showButtons": true
           },
           "title": "ТЕХОСМОТР",
-          "text": "<span style=\"font-style: normal;\">Получи карту техосмотра онлайн и за 15 минут</span><br>Tel:‎2728788; 2728977<span style=\"font-style: normal;\"><br></span>",
+          "text": "<span style=\"font-style: normal;\">Получи карту техосмотра онлайн за 15 минут</span><br>Tel:‎2728788; 2728977<span style=\"font-style: normal;\"><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header3-n\" data-toolbar=\"-mbrBtnMove\">КАК ЭТО РАБОТАЕТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">ОСТАВИТЬ ЗАЯВКУ</a>"
         },
         {
@@ -106,54 +106,7 @@
             "bgColor": "#514f4e",
             "showMeta": false
           },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">&nbsp;ПОЛУЧЕНИЕ КАРТЫ ТО БЕЗ ПРОЦЕДУРЫ ОСМОТРА&nbsp;</span><br>- это обычная практика.<br><br>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-m",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "5",
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Если вы уже однажды проходили техосмотр традиционным образом, то уже, наверняка знаете, что получение карты не всегда гарантированно, а также сопряжено с необходимостью тратить уйму личного времени и денег.&nbsp;</p><p><br></p><p>С помощью нашего сервиса вы можете пройти техосмотр онлайн. Эта процедура абслютно законна, и карта ТО, выданная таким образом, ничем не отличается от&nbsp;</p>",
-          "text2": "<p>той, как если бы вы решили пройти диагностику в автотехцентре.&nbsp;</p><p><br></p><p>Преимущества получения ТО online:</p><p><br></p><p>1. Пройти данную процедуру можно не предоставляя атомобиль на осмотр эксперту.</p><p>2.Нет необходимости далеко ехать, тратить свое время на ожидание в очередях. Нет необходимости тратить</p>",
-          "text3": "<p>свои нервы.&nbsp;</p><p>3. Низкая стоимость процедуры.</p><p>4. Наличие гарантий от нашего сервиса. Вся информация о вашем ТО вносится в базу ЕАИСТО ГИБДД, в чем вы сможете убедиться лично.&nbsp;</p><p>5. Диагностическая карта оформляется за несколько минут.</p><p>6. Возможность оформления ТО доступна для вас в любое время.</p><p>7. Оплата производится по факту проверки информации в базе данных ГИБДД.</p><p><br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "12px"
-            },
-            "SPAN": {
-              "color": "#efefef",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "72px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-n",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#d14841",
-            "showMeta": true
-          },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">КАК ПОЛУЧИТЬ КАРТУ ТЕХОСМОТРА&nbsp;</span><br>ОНЛАЙН?",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">&nbsp;ПОЛУЧЕНИЕ КАРТЫ ТО ONLINE&nbsp;</span><br>- это обычная практика.<br><br>",
           "meta": ""
         },
         {
@@ -327,13 +280,13 @@
           "form": {
             "action": "kras.chalov@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Ваша заявка принята! В ближайщее время мы свяжемся с вами по электронной почте. "
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "ФИО"
+                "customTitle": "Тип кузова (легковой или грузовой)"
               },
               "email": {
                 "title": "Email",
@@ -342,12 +295,12 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Телефон"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "ЗАЯВКА"
+                "customTitle": "В этом поле вы можете оставить свой номер телефона и имя"
               }
             }
           },

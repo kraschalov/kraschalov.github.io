@@ -1,10 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
-
 
 
 
@@ -439,20 +436,6 @@ h6,
 #header3-d SPAN {
   font-family: 'Raleway', sans-serif;
   font-size: 32px;
-}
-#header3-n .mbr-section-title,
-#header3-n .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-n H3 {
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-  font-size: 12px;
-}
-#header3-n SPAN {
-  color: #efefef;
-  font-family: 'Raleway', sans-serif;
-  font-size: 72px;
 }
 #features6-e H4 {
   color: #ffffff;
