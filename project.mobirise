@@ -176,7 +176,7 @@
           },
           "title2": "ПОЛУЧИТЬ<br>ОТВЕТ",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Диагностическая карта техосмотра будет готова в течение 15 минут, Проверить правильность заполнения документа вы сможете по предоставленным скриншотам. Вся нужная информация в обязательном порядке вносится в базу ЕАИСТО ГИБДД, в чём вы сможете убедиться лично, воспользовавшись специальным онлайн-сервисом.<br>",
+          "caption2": "Диагностическая карта техосмотра будет готова в течение 15 минут после предоставления вами всей необходимой информации, Проверить правильность заполнения документа вы сможете по предоставленным скриншотам. Выданная нами карта ТО в обязательном порядке вносится в базу ЕАИСТО ГИБДД, в чём вы сможете убедиться лично, воспользовавшись специальным онлайн-сервисом.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -192,7 +192,7 @@
           },
           "title3": "ОПЛАТИТЬ",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Стоимость услуги<br>составляет 650 рублей",
+          "caption3": "<br>Стоимость услуги<br>составляет 800 рублей",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -206,7 +206,7 @@
               "color": "#ffffff"
             }
           },
-          "title4": "ПОЛУЧИТЬ<br>КАРТУ<br><br>",
+          "title4": "ПОЛУЧИТЬ<br>КАРТУ<br>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "После завершения оплаты<br>вы получите готовый документ<br>по электронной почте,",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
