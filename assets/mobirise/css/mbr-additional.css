@@ -438,7 +438,8 @@ h6,
 }
 #header3-d SPAN {
   font-family: 'Raleway', sans-serif;
-  font-size: 46px;
+  font-size: 36px;
+  text-align: right;
 }
 #features6-e H4 {
   color: #ffffff;

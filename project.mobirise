@@ -21,10 +21,14 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 30,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/talons-to-foto-128x83-1.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -95,7 +99,8 @@
             "SPAN": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "46px"
+              "font-size": "36px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -109,7 +114,7 @@
             "bgColor": "#514f4e",
             "showMeta": true
           },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\">ПОЛУЧЕНИЕ КАРТЫ ТО On-Line</span><br>- это обычная практика",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\">ПОЛУЧЕНИЕ КАРТЫ ТО On-Line</span><span style=\"font-weight: normal; font-size: 3rem; line-height: 1.1;\"><br></span><span style=\"font-weight: normal;\">- это обычная практика</span>",
           "meta": ""
         },
         {
