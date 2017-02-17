@@ -82,7 +82,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">ТЕХОСМОТР</span>",
-          "text": "<span style=\"font-style: normal;\">Получи карту техосмотра онлайн за 800 рублей</span><span style=\"font-style: normal;\"><br></span>",
+          "text": "<span style=\"font-style: normal;\">Получи карту техосмотра онлайн за 800 рублей</span><br><span style=\"font-style: normal;\">г. Красноярск, г.Севастополь<br></span><span style=\"font-style: normal;\"><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-n\" data-toolbar=\"-mbrBtnMove\">КАК ЭТО РАБОТАЕТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">ОСТАВИТЬ ЗАЯВКУ</a>"
         },
         {
@@ -531,7 +531,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "23px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -603,8 +604,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТЕЛ: ‎2728788,‎ 2728977&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">УСЛУГИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ТЕХОСМОТР</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">КОНТАКТЫ</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТЕЛ: ‎2728788,‎ 2728977&nbsp;<br>t.krasnoyarsk@mail.ru<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">УСЛУГИ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ТЕХОСМОТР</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">КОНТАКТЫ</a></li>"
         }
       ]
     }
