@@ -49,16 +49,16 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "46px"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "100px"
             },
             ".mbr-section-lead": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "60px"
+              "font-size": "80px"
             }
           },
           "_anchor": "header4-l",
@@ -66,7 +66,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/358df32f30bf4ed19e32622e05fb1100-2000x1020.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/358df32f30bf4ed19e32622e05fb1100-2000x960.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -74,14 +74,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">ТЕХОСМОТР</span>",
+          "title": "<span style=\"font-weight: normal;\"><br></span>ТЕХОСМОТР",
           "text": "<span style=\"font-style: normal;\">Получи карту техосмотра онлайн за 800 рублей</span><br><span style=\"font-style: normal;\">г. Красноярск, г.Севастополь<br></span><span style=\"font-style: normal;\"><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-n\" data-toolbar=\"-mbrBtnMove\">КАК ЭТО РАБОТАЕТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">ОСТАВИТЬ ЗАЯВКУ</a>"
         },
@@ -583,7 +583,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": true,
